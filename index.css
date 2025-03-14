@@ -687,12 +687,14 @@
 
 @media (max-width: 575px) {
   .u-section-11 .u-sheet-1 {
-    min-height: 104px;
+    min-height: 94px;
   }
 
   .u-section-11 .u-text-1 {
     width: auto;
-    margin: 40px 32px 40px auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: auto;
   }
 }.u-section-12 .u-sheet-1 {
   min-height: 280px;
