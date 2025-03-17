@@ -86,35 +86,36 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 626px;
+    min-height: 506px;
   }
 
   .u-section-1 .u-btn-1 {
-    margin-top: 581px;
-    margin-right: 106px;
+    margin-top: 465px;
+    margin-right: 101px;
   }
 
   .u-section-1 .u-btn-2 {
-    margin-top: -39px;
+    margin-top: -40px;
     padding: 10px 4px 10px 2px;
   }
 
   .u-section-1 .u-text-1 {
-    line-height: 0.9;
+    line-height: 0.8;
     width: auto;
-    margin-top: -359px;
+    margin-top: -304px;
     margin-left: 0;
     margin-right: 0;
   }
 
   .u-section-1 .u-image-1 {
-    margin-top: -535px;
+    width: 180px;
+    height: 180px;
+    margin-top: -445px;
     margin-right: auto;
-    margin-left: 48px;
   }
 
   .u-section-1 .u-btn-3 {
-    margin: 345px auto 5px 0;
+    margin: 274px auto 1px 0;
   }
 } .u-section-2 {
   background-position: 50% 50%;

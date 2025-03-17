@@ -44279,12 +44279,13 @@ a.u-link.u-text-hover-grey-90:hover {
 
 @media (max-width: 575px) {
   .u-header .u-sheet-1 {
-    min-height: 69px;
+    min-height: 46px;
   }
 
   .u-header .u-text-1 {
     font-size: 1.875rem;
-    margin-bottom: 13px;
+    width: auto;
+    margin: 11px 18px 0;
   }
 }
  .u-footer {
