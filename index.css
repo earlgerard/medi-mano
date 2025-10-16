@@ -31,7 +31,7 @@
   height: 222px;
   background-image: url("https://images.unsplash.com/photo-1654751893479-d2d169b172c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NzgzNjl8MHwxfHNlYXJjaHwxMnx8Z2Vra298ZW58MHx8fHwxNzQxODEzMTg3fDA&ixlib=rb-4.0.3&q=80&w=1080");
   background-position: 50% 50%;
-  margin: -315px 188px 0 auto;
+  margin: -385px 188px 0 auto;
 }
 
 .u-section-1 .u-btn-3 {
@@ -41,7 +41,7 @@
   font-size: 0.875rem;
   letter-spacing: 1px;
   background-image: none;
-  margin: 68px 380px 38px auto;
+  margin: 68px 380px 55px auto;
 }
 
 @media (max-width: 1199px) {
@@ -603,11 +603,11 @@
     margin-bottom: 15px;
   }
 }.u-section-8 .u-sheet-1 {
-  min-height: 337px;
+  min-height: 566px;
 }
 
 .u-section-8 .u-text-1 {
-  margin: 17px 0 42px;
+  margin: 31px auto 60px -21px;
 }
 
 @media (max-width: 575px) {
@@ -618,6 +618,7 @@
   .u-section-8 .u-text-1 {
     width: auto;
     margin-top: 26px;
+    margin-left: 0;
   }
 } .u-section-9 {
   background-position: 50% 50%;
